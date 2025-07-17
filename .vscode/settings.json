@@ -3,5 +3,15 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "workbench.colorCustomizations": {},
+  "window.title": "react-native-todo",
+  "projectColors.name": "react-native-todo",
+  "projectColors.mainColor": "#681dd7",
+  "projectColors.isActivityBarColored": false,
+  "projectColors.isTitleBarColored": false,
+  "projectColors.isStatusBarColored": false,
+  "projectColors.isProjectNameColored": false,
+  "projectColors.isActiveItemsColored": false,
+  "projectColors.setWindowTitle": true
 }
